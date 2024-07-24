@@ -39,7 +39,7 @@ android {
 }
 
 dependencies {
-    implementation(name: 'cloudpossdkV1.6.1.1_Standard', ext: 'aar')
+    implementation(name: 'cloudpossdkV1.6.3.4_Standard', ext: 'aar')
 
     implementation 'androidx.appcompat:appcompat:1.3.0'
     implementation 'com.google.android.material:material:1.3.0'
